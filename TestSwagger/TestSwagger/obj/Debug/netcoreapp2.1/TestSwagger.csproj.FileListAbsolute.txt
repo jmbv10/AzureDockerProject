@@ -1,0 +1,16 @@
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.deps.json
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.runtimeconfig.json
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.runtimeconfig.dev.json
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.dll
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.pdb
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.csproj.CoreCompileInputs.cache
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.RazorAssemblyInfo.cache
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.RazorAssemblyInfo.cs
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.AssemblyInfoInputs.cache
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.AssemblyInfo.cs
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.dll
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.pdb
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\bin\Debug\netcoreapp2.1\TestSwagger.xml
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.csprojAssemblyReference.cache
+C:\Users\joao.m.varela\source\repos\TestSwagger\TestSwagger\obj\Debug\netcoreapp2.1\TestSwagger.xml
